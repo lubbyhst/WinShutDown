@@ -5,7 +5,7 @@ public class NewClass extends Frame
 {
   TextField eingabe;
   Label     ausgabe;
-
+//
   public static void main( String[] args )
   {
     NewClass meinFenster = new NewClass( "Text-Ein-/Ausgabe" );
