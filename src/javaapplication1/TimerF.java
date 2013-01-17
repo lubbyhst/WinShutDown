@@ -1,6 +1,6 @@
-/*//
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+/*
+ * Klasse Timer
+ * 
  */
 package javaapplication1;
 import java.util.Timer;
